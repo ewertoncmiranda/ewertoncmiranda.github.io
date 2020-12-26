@@ -85,7 +85,12 @@ body{
 
 }
 .about-title{
-  font-size: 40px;
+  font-size: 30px;
+  text-align: justify;
+  color: gray;
+  font-style: italic;  
+  margin-left: 40px;
+
 }
 
 /*Seção Cards Projetos*/
