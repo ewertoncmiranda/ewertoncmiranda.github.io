@@ -84,7 +84,7 @@ body{
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
-.about-title{
+#about-title{
   font-size: 30px;
   text-align: justify;
   color: gray;
@@ -104,7 +104,6 @@ body{
   transition: .8s;
   
 }
-
 .card-hover:hover {
     transform: scale(1.1);
     background-color: azure;
